@@ -1,0 +1,85 @@
+body{
+    background-color:rgb(9,255,76); 
+    color: white;
+}
+#caly_blok{	
+    width: 100vw; 
+	height: 100vh;
+    flex: auto;
+    flex-direction:row;
+    margin-left: auto;
+    margin-right: auto;
+    }
+#nawigacja{
+    width: 100vw; 
+	height: 5vh;
+}
+#naglowek {
+    width: 100vw; 
+	height: 25vh;
+    background-image: url(obrazy/background.jpg);
+    background-repeat:round;
+    background-size:contain;
+    padding: 0;
+    margin: 0;
+}
+#main {
+    width: 60vw; 
+	height: 78vh;
+    display: inline-block;
+}
+#prawy {
+    margin-top: 190px;
+    width: 20vw; 
+	height: 78vh;
+    display: inline-block;
+    float: right;
+}
+#lewy {
+    margin-top: 190px;
+    width: 20vw; 
+	height: 78vh;
+    display: inline-block;
+    float: left;
+}
+#stopka {
+    width: 100vw; 
+	height: 3vh;
+    background-color:rgb(78,255,76);
+    clear: both;
+}
+#logo1{
+    float: left;
+    width: 200px;
+    height: 200px;}
+#menu{
+    float: right;
+    10vw;3vh;}
+
+.divwmenu{
+    font-size: 20px; 
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 150px;
+    padding: 0;
+    border: 1px;
+    border-style: solid;    
+    text-decoration: none;}
+.divwmenu:hover{
+    background-color: aliceblue;}
+
+.re2{
+    width: 50%;height: 50%;}
+#titlemain{
+    text-align: center;
+    font-size: 80px;}
+#metrdiv{
+    margin-top: 100px;}
+#metrdiv2{
+    margin-top: 190px;}
+.filmydiv{
+    margin: auto;}
+#filmyp2{
+    margin-top: 190px;
+}
+#filmydiv2{margin-top: 290px;}
