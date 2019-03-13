@@ -1,6 +1,14 @@
+@font-face {
+  font-family: abrilface;
+  src: url(fonts/AbrilFatface-Regular.otf);
+    font-weight: bold;
+}
+
+
 body{
-    background-color:rgb(9,255,76); 
+    background-color:rgb(0,240,76); 
     color: white;
+	  font-family: abrilface;
 }
 #caly_blok{	
     width: 100vw; 
